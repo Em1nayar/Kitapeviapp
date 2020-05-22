@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Kitapeviapp\Kitapeviapp\bin\Debug\Kitapeviapp.exe.config
+C:\Users\user\source\repos\Kitapeviapp\Kitapeviapp\bin\Debug\Kitapeviapp.exe
+C:\Users\user\source\repos\Kitapeviapp\Kitapeviapp\bin\Debug\Kitapeviapp.pdb
+C:\Users\user\source\repos\Kitapeviapp\Kitapeviapp\obj\Debug\Kitapeviapp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Kitapeviapp\Kitapeviapp\obj\Debug\Kitapeviapp.exe
+C:\Users\user\source\repos\Kitapeviapp\Kitapeviapp\obj\Debug\Kitapeviapp.pdb
